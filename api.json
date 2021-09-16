@@ -1,16 +1,15 @@
-[
-  {
-    "day" : 1,
-    "link" : [
-      "www.google.com",
-      "www.youtube.com"
-      ]
-  },
-  {
-    "day" : 2,
-    "link" : [
-      "www.facebook.com",
-      "www.twitter.com"
+{
+     "link" : [
+       {
+         "day" : 1,
+         "link1" : "www.google.com",
+         "link2" : "www.youtube.com"
+       },
+       {
+         "day" : 2,
+         "link1" : "www.facebook.com",
+         "link2" : "www.twitter.com"
+       }
+      
       ]
   }
-  ]
