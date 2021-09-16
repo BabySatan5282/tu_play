@@ -9,6 +9,16 @@
          "day" : 2,
          "link1" : "www.facebook.com",
          "link2" : "www.twitter.com"
+       },
+       {
+         "day" : 1,
+         "link1" : "www.google.com",
+         "link2" : "www.youtube.com"
+       },
+       {
+         "day" : 2,
+         "link1" : "www.facebook.com",
+         "link2" : "www.twitter.com"
        }
       
       ]
