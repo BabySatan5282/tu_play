@@ -1,54 +1,35 @@
 {
      "link" : [
-          {
-         "day" : 10,
-         "link1" : "www.google.com",
-         "link2" : "www.youtube.com"
-       },
-       {
-         "day" : 9,
-         "link1" : "www.facebook.com",
-         "link2" : "www.twitter.com"
-       },
-          {
-         "day" : 8,
-         "link1" : "www.google.com",
-         "link2" : "www.youtube.com"
-       },
-       {
-         "day" : 7,
-         "link1" : "www.facebook.com",
-         "link2" : "www.twitter.com"
-       },
+          
        {
          "day" : 6,
          "link1" : "https://ouo.io/Agb1fzk",
-         "link2" : "www.youtube.com"
+         "link2" : "https://adshrink.it/ac4Im0"
        },
        {
          "day" : 5,
          "link1" : "https://ouo.io/8u6Ov01",
-         "link2" : "www.twitter.com"
+         "link2" : "https://adshrink.it/cbiHvX"
        },
        {
          "day" : 4,
          "link1" : "https://ouo.io/cDnw5P",
-         "link2" : "www.youtube.com"
+         "link2" : "https://adshrink.it/dbJRax"
        },
        {
          "day" : 3,
          "link1" : "https://ouo.io/bAhN8H",
-         "link2" : "www.twitter.com"
+         "link2" : "https://adshrink.it/36kIUE"
        },
        {
          "day" : 2,
          "link1" : "https://ouo.io/SdSq52",
-         "link2" : "www.youtube.com"
+         "link2" : "https://adshrink.it/Fjo4y4"
        },
        {
          "day" : 1,
          "link1" : "https://ouo.io/S81WWr",
-         "link2" : "www.twitter.com"
+         "link2" : "https://adshrink.it/2LzfoI"
        }
       
       ]
