@@ -25,10 +25,28 @@
     "answer_index": 2
   },
   {
-    "id": 5,
+    "id": 6,
     "question": "What is Your Name",
     "options": ["Mg Mg", "Aung Aung", "Ko Ko"],
     "answer_index": 2
+  },
+  {
+    "id": 6,
+    "question": "Luffy born in",
+    "options": ["1997", "1998", "2000","2001"],
+    "answer_index": 0
+  },
+  {
+    "id": 6,
+    "question": "Lyffy eat ",
+    "options": ["Gomu Gomu fruit", "Sand Sand fruit", "Fly fruit","invisiable fruit"],
+    "answer_index": 0
+  },
+  {
+    "id": 6,
+    "question": "One piece animi is from",
+    "options": ["korea", "japan", "china","US"],
+    "answer_index": 1
   }
   
 ]
