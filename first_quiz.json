@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "question":
+        "fi Flutter is created by",
+    "options": ["Apple", "Google", "Facebook", "Microsoft"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "fi When google release Flutter.",
+    "options": ["Jun 2017", "Jun 2017", "May 2017", "May 2018"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "fi A memory location that holds a single letter or number.",
+    "options": ["Double", "Int", "Char", "Word"],
+    "answer_index": 2
+  },
+  {
+    "id": 4,
+    "question": "fi What command do you use to output data to the screen?",
+    "options": ["Cin", "Count>>", "Cout", "Output>>"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "fi What is Your Name",
+    "options": ["Mg Mg", "Aung Aung", "Ko Ko"],
+    "answer_index": 2
+  },
+  {
+    "id": 6,
+    "question": "fi Luffy born in",
+    "options": ["1997", "1998", "2000","2001"],
+    "answer_index": 0
+  },
+  {
+    "id": 7,
+    "question": "fi Lyffy eat ",
+    "options": ["Gomu Gomu fruit", "Sand Sand fruit", "Fly fruit","invisiable fruit"],
+    "answer_index": 0
+  },
+  {
+    "id": 8,
+    "question": "fi One piece animi is from",
+    "options": ["korea", "japan", "china","US"],
+    "answer_index": 1
+  },
+  {
+    "id": 9,
+    "question": "fi Nami have _____ hair",
+    "options": ["black", "yellow", "blue","red"],
+    "answer_index": 3
+  },
+  {
+    "id": 10,
+    "question": "fi sangi most like",
+    "options": ["ship", "car", "food","money"],
+    "answer_index": 2
+  },
+  {
+    "id": 11,
+    "question": "fi Usoop has _____ nose",
+    "options": ["short", "long", "beauty","normal"],
+    "answer_index": 1
+  },
+  {
+    "id": 12,
+    "question": "fi nezuko is",
+    "options": ["demon", "human", "zombie","vampire"],
+    "answer_index": 0
+  },
+  {
+    "id": 13,
+    "question": "fi Demon Slayer series is start from",
+    "options": ["2019", "2020", "2021","2022"],
+    "answer_index": 1
+  },{
+    "id": 14,
+    "question": "fi One Piece anime's ocean has war of king ",
+    "options": ["1", "2", "3","4"],
+    "answer_index": 3
+  },{
+    "id": 15,
+    "question": "fi One piece treasure is exited in ",
+    "options": ["South Blue Ocean", "North Blue Ocean", "Weast Blue Ocean","Grand Line"],
+    "answer_index": 3
+  },
+  {
+    "id": 16,
+    "question": "fi Chopper is ",
+    "options": ["Goat", "Dog", "Sheep","Deer"],
+    "answer_index": 3
+  },
+  {
+    "id": 17,
+    "question": "fi Luffy alway wear",
+    "options": ["Hat", "ring", "gold","glass"],
+    "answer_index": 0
+  }
+  
+]
