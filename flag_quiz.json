@@ -2,102 +2,102 @@
   {
     "id": 1,
     "question":
-        "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+        "Afghanistan.png",
     "options": ["Algeria", "Afghanistan", "Madagascar"],
     "answer_index": 1
   },
   {
     "id": 2,
-    "question": "sec When google release Flutter.",
-    "options": ["Jun 2017", "Jun 2017", "May 2017", "May 2018"],
+    "question": "Albania.png",
+    "options": ["Malawi", "Philippines", "Albania"],
     "answer_index": 2
   },
   {
     "id": 3,
-    "question": "sec A memory location that holds a single letter or number.",
-    "options": ["Double", "Int", "Char", "Word"],
-    "answer_index": 2
+    "question": "Algeria.png.",
+    "options": ["San Marino", "Algeria", "Dominican Republic"],
+    "answer_index": 1
   },
   {
     "id": 4,
-    "question": "sec What command do you use to output data to the screen?",
-    "options": ["Cin", "Count>>", "Cout", "Output>>"],
-    "answer_index": 2
+    "question": "Andorra.png",
+    "options": ["Andorra", "Djibouti", "Egypt"],
+    "answer_index": 0
   },
   {
     "id": 5,
-    "question": "sec What is Your Name",
-    "options": ["Mg Mg", "Aung Aung", "Ko Ko"],
-    "answer_index": 2
+    "question": "Angola.png",
+    "options": ["Saint Kitts and Nevis", "Angola", "Suriname"],
+    "answer_index": 1
   },
   {
     "id": 6,
-    "question": "sec Luffy born in",
-    "options": ["1997", "1998", "2000","2001"],
+    "question": "Antigua.png",
+    "options": ["Antigua", "Grenada", "Taiwan"],
     "answer_index": 0
   },
   {
     "id": 7,
-    "question": "sec Lyffy eat ",
-    "options": ["Gomu Gomu fruit", "Sand Sand fruit", "Fly fruit","invisiable fruit"],
-    "answer_index": 0
+    "question": "Argentina.png",
+    "options": ["Japan", "Uganda", "Argentina"],
+    "answer_index": 2
   },
   {
     "id": 8,
-    "question": "sec One piece animi is from",
-    "options": ["korea", "japan", "china","US"],
+    "question": "Armenia.png",
+    "options": ["Jamaica", "Armenia", "Vanuatu"],
     "answer_index": 1
   },
   {
     "id": 9,
-    "question": "sec Nami have _____ hair",
-    "options": ["black", "yellow", "blue","red"],
-    "answer_index": 3
+    "question": "Australia.png",
+    "options": ["Australia", "Suriname", "Venezuela"],
+    "answer_index": 0
   },
   {
     "id": 10,
-    "question": "sec sangi most like",
-    "options": ["ship", "car", "food","money"],
-    "answer_index": 2
+    "question": "Austria.png",
+    "options": ["Kenya", "Austria", "Uruguay"],
+    "answer_index": 1
   },
   {
     "id": 11,
-    "question": "sec Usoop has _____ nose",
-    "options": ["short", "long", "beauty","normal"],
+    "question": "Azerbaijan.png",
+    "options": ["Zimbabwe", "Azerbaijan", "Liechtenstein"],
     "answer_index": 1
   },
   {
     "id": 12,
-    "question": "sec nezuko is",
-    "options": ["demon", "human", "zombie","vampire"],
+    "question": "Bahamas.pngs",
+    "options": ["Bahamas", "North Korea", "Oman","vampire"],
     "answer_index": 0
   },
   {
     "id": 13,
-    "question": "sec Demon Slayer series is start from",
-    "options": ["2019", "2020", "2021","2022"],
+    "question": "Bahrain.png",
+    "options": ["Brunei", "Bahrain", "Nicaragua"],
     "answer_index": 1
   },{
     "id": 14,
-    "question": "sec One Piece anime's ocean has war of king ",
-    "options": ["1", "2", "3","4"],
-    "answer_index": 3
+    "question": "Bangladesh.png",
+    "options": ["Nigeria", "Myanmar", "Bangladesh"],
+    "answer_index": 2
   },{
     "id": 15,
-    "question": "sec One piece treasure is exited in ",
-    "options": ["South Blue Ocean", "North Blue Ocean", "Weast Blue Ocean","Grand Line"],
-    "answer_index": 3
+    "question": "Barbados.png",
+    "options": ["Azerbaijan", "Morocco", "Barbados"],
+    "answer_index": 2
   },
   {
     "id": 16,
-    "question": "sec Chopper is ",
-    "options": ["Goat", "Dog", "Sheep","Deer"],
-    "answer_index": 3
+    "question": "Belarus.png",
+    "options": ["Saint Lucia", "Andorra", "Belarus"],
+    "answer_index": 2
   },
   {
     "id": 17,
-    "question": "sec Luffy alway wear",
-    "options": ["Hat", "ring", "gold","glass"],
+    "question": "Belgium.png",
+    "options": ["Belgium", "Timor-Leste", "Haiti"],
     "answer_index": 0
   }
   
