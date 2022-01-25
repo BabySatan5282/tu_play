@@ -68,8 +68,8 @@
   },
   {
     "id": 12,
-    "question": "Bahamas.pngs",
-    "options": ["Bahamas", "North Korea", "Oman","vampire"],
+    "question": "Bahamas.png",
+    "options": ["Bahamas", "North Korea", "Oman"],
     "answer_index": 0
   },
   {
