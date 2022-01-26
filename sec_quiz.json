@@ -5,7 +5,7 @@
     "options": ["Apple", "Google", "Facebook", "Microsoft"],
     "answer_index": 1
   },
-  {,
+  {
     "question": "When google release Flutter.",
     "options": ["Jun 2017", "Jun 2017", "May 2017", "May 2018"],
     "answer_index": 2
