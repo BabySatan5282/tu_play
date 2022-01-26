@@ -1,119 +1,101 @@
 [
   {
-    "id": 1,
     "question":
         "Afghanistan.png",
     "options": ["Algeria", "Afghanistan", "Madagascar"],
     "answer_index": 1
   },
   {
-    "id": 2,
     "question": "Albania.png",
     "options": ["Malawi", "Philippines", "Albania"],
     "answer_index": 2
   },
   {
-    "id": 3,
     "question": "Algeria.png",
     "options": ["San Marino", "Algeria", "Dominican Republic"],
     "answer_index": 1
   },
   {
-    "id": 4,
     "question": "Andorra.png",
     "options": ["Andorra", "Djibouti", "Egypt"],
     "answer_index": 0
   },
   {
-    "id": 5,
     "question": "Angola.png",
     "options": ["Saint Kitts and Nevis", "Angola", "Suriname"],
     "answer_index": 1
   },
   {
-    "id": 6,
     "question": "Antigua.png",
     "options": ["Antigua", "Grenada", "Taiwan"],
     "answer_index": 0
   },
   {
-    "id": 7,
     "question": "Argentina.png",
     "options": ["Japan", "Uganda", "Argentina"],
     "answer_index": 2
   },
   {
-    "id": 8,
     "question": "Armenia.png",
     "options": ["Jamaica", "Armenia", "Vanuatu"],
     "answer_index": 1
   },
   {
-    "id": 9,
     "question": "Australia.png",
     "options": ["Australia", "Suriname", "Venezuela"],
     "answer_index": 0
   },
   {
-    "id": 10,
     "question": "Austria.png",
     "options": ["Kenya", "Austria", "Uruguay"],
     "answer_index": 1
   },
   {
-    "id": 11,
     "question": "Azerbaijan.png",
     "options": ["Zimbabwe", "Azerbaijan", "Liechtenstein"],
     "answer_index": 1
   },
   {
-    "id": 12,
     "question": "Bahamas.png",
     "options": ["Bahamas", "North Korea", "Oman"],
     "answer_index": 0
   },
   {
-    "id": 13,
     "question": "Bahrain.png",
     "options": ["Brunei", "Bahrain", "Nicaragua"],
     "answer_index": 1
-  },{
-    "id": 14,
+  },
+  {
     "question": "Bangladesh.png",
     "options": ["Nigeria", "Myanmar", "Bangladesh"],
     "answer_index": 2
-  },{
-    "id": 15,
+  },
+  {
     "question": "Barbados.png",
     "options": ["Azerbaijan", "Morocco", "Barbados"],
     "answer_index": 2
   },
   {
-    "id": 16,
     "question": "Belarus.png",
     "options": ["Saint Lucia", "Andorra", "Belarus"],
     "answer_index": 2
   },
   {
-    "id": 17,
     "question": "Belgium.png",
     "options": ["Belgium", "Timor-Leste", "Haiti"],
     "answer_index": 0
   },
   {
-    "id": 18,
     "question": "Belize.png",
     "options": ["Belize", "Timor-Leste", "Haiti"],
     "answer_index": 0
   },
   {
-    "id": 19,
     "question": "Benin.png",
     "options": ["Nepal", "Benin", "Brunei"],
     "answer_index": 1
   },
   {
-    "id": 20,
     "question": "Bhutan.png",
     "options": ["Myanmar", "Samoa", "Bhutan"],
     "answer_index": 2
