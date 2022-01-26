@@ -99,6 +99,24 @@
     "question": "Belgium.png",
     "options": ["Belgium", "Timor-Leste", "Haiti"],
     "answer_index": 0
+  },
+  {
+    "id": 18,
+    "question": "Belize.png",
+    "options": ["Belize", "Timor-Leste", "Haiti"],
+    "answer_index": 0
+  },
+  {
+    "id": 19,
+    "question": "Benin.png",
+    "options": ["Nepal", "Benin", "Brunei"],
+    "answer_index": 1
+  },
+  {
+    "id": 20,
+    "question": "Bhutan.png",
+    "options": ["Myanmar", "Samoa", "Bhutan"],
+    "answer_index": 2
   }
   
 ]
