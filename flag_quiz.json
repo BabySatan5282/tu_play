@@ -99,6 +99,81 @@
     "question": "Bhutan.png",
     "options": ["Myanmar", "Samoa", "Bhutan"],
     "answer_index": 2
-  }
+  },
+  {
+    "question": "Bolivia.png",
+    "options": ["Malaysia", "Bolivia", "Micronesia"],
+    "answer_index": 1
+  },
+  {
+    "question": "Bosnia_and_Herzegovina.png",
+    "options": ["Bosnia and Herzegovina", "Montenegro", "Qatar"],
+    "answer_index": 0
+  },
+  {
+    "question": "Botswana.png",
+    "options": ["Comoros", "Romania", "Botswana"],
+    "answer_index": 2
+  },
+  {
+    "question": "Brazil.png",
+    "options": ["Brazil", "Benin", "Russia"],
+    "answer_index": 0
+  },
+  {
+    "question": "Brunei.png",
+    "options": ["Peru", "Brunei", "Cuba"],
+    "answer_index": 1
+  },
+  {
+    "question": "Bulgaria.png",
+    "options": ["Singapore", "Ethiopia", "Bulgaria"],
+    "answer_index": 2
+  },
+  {
+    "question": "Burkina_Faso.png",
+    "options": ["Burkina Faso", "Sierra Leone", "Fiji"],
+    "answer_index": 0
+  },
+  {
+    "question": "Burundi.png",
+    "options": ["South Africa", "Burundi", "Finland"],
+    "answer_index": 1
+  },
+  {
+    "question": "Cabo_Verde.png",
+    "options": ["Spain", "Ethiopia", "Cabo Verde"],
+    "answer_index": 2
+  },
+  {
+    "question": "Cambodia.png",
+    "options": ["Cambodia", "Yemen", "Lesotho"],
+    "answer_index": 0
+  },
+  {
+    "question": "Cameroon.png",
+    "options": ["Kyrgyzstan", "Cameroon", "Vatican City (Holy See)"],
+    "answer_index": 1
+  },
+  {
+    "question": "Canada.png",
+    "options": ["Latvia", "Yemen", "Canada"],
+    "answer_index": 2
+  },
+  {
+    "question": "Central_African_Republic.png",
+    "options": ["Central African Republic", "India", "Tonga"],
+    "answer_index": 0
+  },
+  {
+    "question": "Chad.png",
+    "options": ["Trinidad and Tobago", "Chad", "Ukraine"],
+    "answer_index": 1
+  },
+  {
+    "question": "Chile.png",
+    "options": ["Guinea-Bissau", "Tuvalu", "Chile"],
+    "answer_index": 2
+  },
   
 ]
