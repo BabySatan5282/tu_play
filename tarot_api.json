@@ -1,0 +1,17 @@
+[
+ {
+  "name": "The Emperor",
+  "image": "The_Emperor.jpg",
+  "answer": "The Emperor is emperor"
+ },
+ {
+  "name": "The Empress",
+  "image": "The_Empress.jpg",
+  "answer": "The Empress is Empress"
+  },
+  {
+  "name": "The Fool",
+  "image": "The_Fool.jpg",
+  "answer": "The Fool is fool"
+  }
+]
