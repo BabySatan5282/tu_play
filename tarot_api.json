@@ -13,5 +13,20 @@
   "name": "The Fool",
   "image": "The_Fool.jpg",
   "answer": "The Fool is fool"
-  }
+  },
+ {
+  "name": "The High Priestess",
+  "image": "The_High_Priestess.jpg",
+  "answer": "The High pri....... is prrrrr"
+ },
+ {
+  "name": "The Magician",
+  "image": "The_Magician.jpg",
+  "answer": "The Magican is Magican.............."
+  },
+  {
+  "name": "The Fool",
+  "image": "The_Fool.jpg",
+  "answer": "The Fool is fool"
+  },
 ]
