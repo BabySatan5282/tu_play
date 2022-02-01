@@ -1,5 +1,5 @@
-[
- {
+{
+ "version" : {
   "title" : "Update Aviable",
   "message" : "You need to update this app",
   "version_code" : 1,
@@ -7,5 +7,5 @@
   "download" : "www.google.com",
   "playstore" : "com.babysatan.tumg"
 }
-]
+}
 
