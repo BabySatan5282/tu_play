@@ -1,6 +1,7 @@
 {
  "success" : true,
- "response" : {
+ "message" : "success",
+ "data" : {
   "title" : "Update Aviable",
   "message" : "New Theme\nMore Tarot Reading\nMore Quiz",
   "version_code" : 1,
