@@ -177,7 +177,12 @@
     "question": "Chile.png",
     "options": ["Guinea-Bissau", "Tuvalu", "Chile"],
     "answer_index": 2
-  }
+  },
+{
+"question":"Denmark.png",
+"options": ["Denmark", "Ecuador", "Gabon"],
+    "answer_index": 0
+}
   
 ]
 }
